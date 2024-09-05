@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> Meu nome é Isadora Idalgo Chieregato
+> Meu nome é Isadora Idalgo Chieregato e amo codar, sou proficiente em fazer commit semantico e tenho saudade do meu ex PEDRO MALTA
 
 # LinkedIn
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-chieregato-072a33286/) 
