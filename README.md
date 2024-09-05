@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+> Meu nome é Isadora Idalgo Chieregato e eu amo codar, sou proficiente em commitar semanticamente e namoro o Osmar Felipe de Souza Paturalski Zuculo
+
+# LinkedIn
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-chieregato-072a33286/) 
 <!--
 **isadorachieregato/isadorachieregato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
