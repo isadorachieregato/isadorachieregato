@@ -2,15 +2,17 @@
 
 # Hello World 👋
 
+
 ### 🎓 Sobre mim
-Meu nome é Isadora, tenho 18 anos e estou cursando Engenharia de Software na Uni-FACEF. Atuo no desenvolvimento de aplicações web e mobile, explorando tanto a construção da interface quanto a lógica por trás das funcionalidades. Além disso, me interesso por infraestrutura de dados e análise, buscando compreender a organização, o processamento e a otimização de informações para garantir soluções mais eficientes e escaláveis.
+Meu nome é Isadora, tenho 18 anos e estou cursando Engenharia de Software na Uni-FACEF. Atuo no desenvolvimento de aplicações web e mobile, explorando tanto a construção da interface quanto a lógica por trás das funcionalidades. Além disso, me interesso por infraestrutura de dados e análise, buscando compreender a organização, o processamento e a otimização de informações para garantir soluções mais eficientes dentro de equipes e projetos.
+
+
 ---
 
 ### 📚 Formação Acadêmica
 
-🎓 Engenharia de Software - UNI-FACEF (2025 - 2029)  
+🎓 Engenharia de Software - UNI-FACEF (2025 - 2028)  
 🖥 Técnico em Desenvolvimento de Sistemas - SENAI (2023 - 2024)  
-🏫 Ensino Médio - SESI (2022 - 2024)  
 🌎 Inglês - CCBEU (2020 - 2024)  
 
 ---
@@ -52,8 +54,5 @@ Meu nome é Isadora, tenho 18 anos e estou cursando Engenharia de Software na U
 💻 GitHub: https://github.com/isadorachieregato
 
 📞 Telefone: +55 (16) 99409-7027
-
-</div>
-
 
 </div>
