@@ -4,7 +4,7 @@
 
 
 ### 🎓 Sobre mim
-Meu nome é Isadora, tenho 18 anos e estou cursando Engenharia de Software na Uni-FACEF. Atuo no desenvolvimento de aplicações web e mobile, explorando tanto a construção da interface quanto a lógica por trás das funcionalidades. Além disso, me interesso por análise e infraestrutura de dados, buscando compreender a organização, o processamento e a otimização de informações para garantir soluções mais eficientes dentro de equipes e projetos.
+Meu nome é Isadora, tenho 19 anos e estou cursando Engenharia de Software na Uni-FACEF. Atuo no desenvolvimento de aplicações web e mobile, explorando tanto a construção da interface quanto a lógica por trás das funcionalidades. Além disso, me interesso por análise e infraestrutura de dados, buscando compreender a organização, o processamento e a otimização de informações para garantir soluções mais eficientes dentro de equipes e projetos.
 
 
 ---
@@ -42,7 +42,8 @@ Meu nome é Isadora, tenho 18 anos e estou cursando Engenharia de Software na U
 
 ### 💼 Experiência Profissional
 
-📅 Fev/2025 - Atual - Estagiária em Suporte de Atendimento na LCSi Soluções
+📅 Fev/2025 - Jun/2025 - Estagiária em Suporte de Atendimento na LCSi Soluções;
+📅 Jul/2025 - Atual - Estagiária em Desenvolvimento no CHB.
 
 ---
 
